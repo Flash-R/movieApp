@@ -1,0 +1,13 @@
+.movies{
+    display: flex;
+    flex-direction: row;
+}
+.movie-List{
+    background-color: aqua;
+    color: tomato;
+}
+
+.movie-List p{
+    margin: 0px;
+    padding: 5px;
+}
